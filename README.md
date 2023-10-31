@@ -9,7 +9,7 @@
 조세영 임지영 송유빈 임승화</br></br>
 
 ## 🍑기술 블로그
-[Tistory - - 2023-02-ML-Novice-Study](https://dsc-sookmyung.tistory.com/category/Group%20Study%20%282023-2024%29/Machine%20Learning%20%EC%9E%85%EB%AC%B8))</br></br>
+[Tistory - - 2023-02-ML-Novice-Study](https://dsc-sookmyung.tistory.com/category/Group%20Study%20%282023-2024%29/Machine%20Learning%20%EC%9E%85%EB%AC%B8)</br></br>
 
 ## 🍒Notion
 [노션 - 2023-02-ML-Novice-Study](https://gdsc-sookmyung-23-24.notion.site/1-Machine-Learning-435e5cb7841c42d097f416a09a2656d9) </br></br>
