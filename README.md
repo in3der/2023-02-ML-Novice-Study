@@ -12,12 +12,12 @@
 (차후 티스토리 기술 블로그 항목 생성 후 URL 링크)</br></br>
 
 ## 🍒Notion
-https://gdsc-sookmyung-23-24.notion.site/1-Machine-Learning-435e5cb7841c42d097f416a09a2656d9 </br></br>
+[노션 - 2023-02-ML-Novice-Study](https://gdsc-sookmyung-23-24.notion.site/1-Machine-Learning-435e5cb7841c42d097f416a09a2656d9) </br></br>
 
 ## 📖스터디 소개
 - **스터디교재**: [혼자 공부하는 머신러닝+딥러닝]
-- **스터디강의**: 인프런(https://www.inflearn.com/course/%ED%98%BC%EC%9E%90%EA%B3%B5%EB%B6%80-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EB%94%A5%EB%9F%AC%EB%8B%9D/dashboard)
-- **실습코드** : https://github.com/rickiepark/hg-mldl/blob/master/README.md
+- **스터디강의**: [인프런](https://www.inflearn.com/course/%ED%98%BC%EC%9E%90%EA%B3%B5%EB%B6%80-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EB%94%A5%EB%9F%AC%EB%8B%9D/dashboard) ,  [유튜브](https://www.youtube.com/watch?v=J6wehCO_c58&list=PLJN246lAkhQjoU0C4v8FgtbjOIXxSs_4Q)
+- **실습코드** : [깃허브](https://github.com/rickiepark/hg-mldl/blob/master/README.md)
 </br></br>
 
 ## 📅커리큘럼
